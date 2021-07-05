@@ -16,4 +16,4 @@ Use Power BI Desktop to:
 • Design an interactive report to analyze and visualize the data
 
 
-Also a hudge shoutout to udemy's Power BI desktop course .
+Also a huge shoutout to udemy's Power BI desktop course for guidance.
