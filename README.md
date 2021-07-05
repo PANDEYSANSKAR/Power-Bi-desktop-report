@@ -14,3 +14,6 @@ Use Power BI Desktop to:
 • Build a relational data model
 • Create new calculated columns and DAX measures
 • Design an interactive report to analyze and visualize the data
+
+
+Also a hudge shoutout to udemy's Power BI desktop course .
